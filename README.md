@@ -1,4 +1,4 @@
-Week 12 Skill Distillery project leveraging the stack below to develop a RESTful application.
+Week 12 Skill Distillery project leveraging the stack below to develop a RESTful Java application.
 
   - Java
   - Spring MVC
