@@ -9,8 +9,8 @@
 
 		<properties>
 			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/goslingdb" />
-			<property name="javax.persistence.jdbc.user" value="administrator" />
-			<property name="javax.persistence.jdbc.password" value="administrator" />
+			<property name="javax.persistence.jdbc.user" value="ryan" />
+			<property name="javax.persistence.jdbc.password" value="ryan" />
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
 			<property name="hibernate.show_sql" value="false" />
 			<property name="hibernate.format_sql" value="false" />
